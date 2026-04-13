@@ -1,0 +1,8 @@
+{
+  "version": "2026.4.1",
+  "patch": "12.0.1",
+  "files": {
+    "item_drops.json": "f84d494da5f5ed527a6d82c45fc18866385c79c6ecb3c95bce62b345b0fd45cc",
+    "talent_builds.json": "d963dfa1b33631216cdf576b48f0a6483a545f269fc54e1b311f67247624b188"
+  }
+}
